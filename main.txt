@@ -1,0 +1,8 @@
+a = "안녕하세요"
+b = "hi"
+c = "A"
+d = "123"
+print(a)
+print(b)
+print(c)
+print(d)
