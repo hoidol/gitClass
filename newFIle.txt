@@ -1,0 +1,3 @@
+Public class Monster{
+Public int hp = 30;
+}
