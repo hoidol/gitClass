@@ -1,10 +1,1 @@
-a = "안녕하세요"
-b = "hi"
-c = "A"
-d = "123"
-print(a)
-print(b)
-print(c)
-print(d)
-
-print("하이");
+안녕하세요.. 충돌 확인합니다.
